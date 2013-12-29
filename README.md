@@ -1,4 +1,5 @@
 php-Chat
 ========
 
-a simple p2p chat in php
+A group chat in php.
+The progect incudes .txt files as cache to store the chat for different chat channels
